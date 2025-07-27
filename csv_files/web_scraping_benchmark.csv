@@ -1,0 +1,4 @@
+Library,Execution Time (s),Memory Usage (MB),Ease of Use (1-10)
+BeautifulSoup,1.33,7.12,9
+Playwright,8.17,3.17,6
+Scrapy,1.27,16.33,4
