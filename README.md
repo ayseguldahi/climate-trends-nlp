@@ -29,7 +29,6 @@
 │   ├─ scrape_reddit_playwright.py    # Scrapes Reddit posts with Playwright
 │   └─ summarize_articles.py          # GPT summarization for Reddit posts
 
-📄 requirements.txt                   # Python dependencies
 📄 README.md                          # Project documentation
 ```
 
