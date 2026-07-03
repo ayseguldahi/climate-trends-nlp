@@ -1,10 +1,10 @@
-# 🌍 climate-trends-nlp
+# climate-trends-nlp
 
 **climate-trends-nlp** is a Python-based project that scrapes, summarizes, and analyzes Reddit posts related to climate change using NLP techniques. The pipeline integrates web scraping with Playwright, GPT-powered summarization and sentiment analysis, and outputs datasets and insights useful for climate communication research.
 
 ---
 
-## 🧠 Project Goals
+## Project Goals
 
 - Understand how climate change is discussed on social media.
 - Summarize long Reddit posts into digestible insights using GPT models.
@@ -14,7 +14,7 @@
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 📁 csv_files/
@@ -34,7 +34,7 @@
 
 ---
 
-## 🛠️ Setup Instructions
+## Setup Instructions
 
 1. **Install dependencies**
 
@@ -82,7 +82,7 @@
 
 ---
 
-## 📊 Output
+## Output
 
 - Structured CSVs containing original posts, summaries, and sentiment.
 - Benchmark logs comparing scraping runtimes.
@@ -90,7 +90,7 @@
 
 ---
 
-## 📌 Use Cases
+## Use Cases
 
 - Academic research in environmental communication
 - Journalistic coverage of climate discourse
@@ -99,6 +99,6 @@
 
 ---
 
-## 📬 License & Contributions
+## License & Contributions
 
 This project is open-source. Contributions, improvements, and issue reporting are all welcome!
